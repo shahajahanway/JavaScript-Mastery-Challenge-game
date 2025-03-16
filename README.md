@@ -25,3 +25,29 @@ To run this game locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/javascript-mastery-challenge.git
+
+Open the index.html file in your browser to start the game:
+bash
+Copy
+open index.html
+Technologies Used
+HTML5 for structure
+CSS3 for styling (Responsive design and modern aesthetics)
+JavaScript for the game logic and interactivity
+How to Contribute
+If you would like to contribute to this project, feel free to fork this repository and create a pull request with your changes. You can add more questions or features like difficulty levels, a timer, or score tracking!
+
+Fork the repository
+Create a new branch (git checkout -b feature-branch)
+Commit your changes (git commit -m 'Add a new feature')
+Push to the branch (git push origin feature-branch)
+Open a pull request
+License
+This project is open-source and available under the MIT License. See the LICENSE file for more details.
+
+Contact
+If you have any questions, feel free to reach out to the author:
+
+Email: contact@shahajahan.in
+GitHub: https://github.com/shahajahanway
+Good luck and enjoy the challenge! 🚀
